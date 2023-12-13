@@ -22,4 +22,4 @@ Cribble is a freelancing website designed to connect freelancers and clients, pr
 
 ## Getting Started
 
-1. **Clone the Repository:**
+  URL: https://cribble.netlify.app/
